@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![Header](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
+
+## Hi there 👋
+### I am Samarth Goel !!
+### An App Developer 🛠️ and Competitive Coder 💻
 
 <!--
 **Sam-commit/Sam-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
