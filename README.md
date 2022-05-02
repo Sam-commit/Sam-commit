@@ -6,11 +6,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=379172)](https://www.linkedin.com/in/samarth-goel-28793a200/)
 &nbsp;
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/gautam.mishra.739/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/samarth.goel.501/)
 &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=379172)](https://www.instagram.com/wolvi_x_sam/)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:darkknight131714@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:samarthgoel2002@gmail.com)
 
 ## &#x1f4c8; GitHub Stats
 
